@@ -42,3 +42,9 @@ body > img {
 img {
   max-height: 250px;
 }
+
+.csIniciar{
+  width: 10rem;
+  height: 3rem;
+  font-size: 1rem;
+}
